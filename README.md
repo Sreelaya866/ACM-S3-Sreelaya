@@ -4,7 +4,7 @@ ACM reqruitment tasks
 
 ## 👤 Short Self-Intro
 
-Hi! I'm [Your Name], a data science enthusiast eager to solve real-world problems using ML, statistics, and analytical tools. This repository is a curated journey through multiple challenge cycles focusing on preprocessing, modeling, and evaluation tasks to build solid data intuition and technical fluency.
+Hi! I'm Sreelaya, a data science enthusiast eager to solve real-world problems using ML, statistics, and analytical tools. This repository is a curated journey through multiple challenge cycles focusing on preprocessing, modeling, and evaluation tasks to build solid data intuition and technical fluency.
 
 ---
 
@@ -23,7 +23,7 @@ Hi! I'm [Your Name], a data science enthusiast eager to solve real-world problem
 | Day | Task Name               | Status     |
 |-----|-------------------------|------------|
 | 1   | Burnout Breakdown       | ✅ Completed |
-| 2   | Stress Signals          | not Completed |
+| 2   | Stress Signals          | ✅ Completed |
 | 3   | Outlier Overload        | not Completed |
 | 4   | Encode to Survive       | not Completed |
 | 5   | Prepping for Prediction | not Completed |
