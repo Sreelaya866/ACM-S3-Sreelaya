@@ -1,4 +1,4 @@
-# ACM-S3-Sreelaya
+# ACM 30 DAY CHALLANGE
 ACM reqruitment tasks
 # 🧠 Data Challenge Series
 
