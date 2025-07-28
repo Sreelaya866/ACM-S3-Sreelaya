@@ -24,10 +24,10 @@ Hi! I'm Sreelaya, a data science enthusiast eager to solve real-world problems u
 |-----|-------------------------|------------|
 | 1   | Burnout Breakdown       | ✅ Completed |
 | 2   | Stress Signals          | ✅ Completed |
-| 3   | Outlier Overload        | not Completed |
-| 4   | Encode to Survive       | not Completed |
-| 5   | Prepping for Prediction | not Completed |
-| -   | Mini Challenge          | not Completed |
+| 3   | Outlier Overload        | ✅ Completed |
+| 4   | Encode to Survive       | ✅ Completed |
+| 5   | Prepping for Prediction | ✅ Completed |
+| -   | Mini Challenge          | ✅ Completed |
 | -   | Main Challenge          | not Completed |
 
 ---
